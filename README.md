@@ -4,42 +4,40 @@
 
 **Топ-10 универсальных** — работают и с VPN, и без VPN.
 
-```tg://proxy?server=predator-artist.top&port=853&secret=7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s
-tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
+```tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=surf.suslik-cloud.homes&port=443&secret=eed7f61466f824eafe116a533553e01bca737572662e7375736c696b2d636c6f75642e686f6d6573
+tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 tg://proxy?server=nya-nya.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+tg://proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=predator-artist.top&port=853&secret=7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s
 tg://webproxy?server=web.suslik-cloud.homes&secret=dd72a2c47b19adfed97c95bc4fdd38b83f
-tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
-tg://proxy?server=BoT.jlpoKcu.cloud&port=443&secret=7j-KkcLX4EtqnxLF6DcL1Kp4YXBpLm96b24ucnU
-tg://proxy?server=tbojl.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
 ```
 
 ## Только при VPN выкл (сейчас)
 
-```tg://proxy?server=178.154.215.122&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=178.154.208.189&port=443&secret=ee0d037362b00037147a4d50093c3d261c706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c
-tg://proxy?server=178.154.209.19&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
+```tg://proxy?server=178.154.208.189&port=443&secret=ee0d037362b00037147a4d50093c3d261c706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://proxy?server=158.160.254.123&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
+tg://proxy?server=178.154.209.19&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
 tg://proxy?server=158.160.206.155&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://proxy?server=158.160.132.207&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=158.160.212.168&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=153.51.113.222&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275
-tg://proxy?server=telega.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=papaomega.whiskeytangofoxtrot.lol&port=443&secret=ee9902a916e700ce3d6030655cd1fd7f33706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c
-tg://proxy?server=meow.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
+tg://proxy?server=158.160.132.207&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275
 tg://proxy?server=178.154.211.47&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c
-tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
+tg://proxy?server=178.154.215.122&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=telega.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=meow.its-work.ru&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://proxy?server=papaomega.whiskeytangofoxtrot.lol&port=443&secret=ee9902a916e700ce3d6030655cd1fd7f33706170616f6d6567612e776869736b657974616e676f666f7874726f742e6c6f6c
 tg://webproxy?server=verika.murka.fun&secret=dd0218e54f35f25c323e5ff44d6fb34fcd
 tg://webproxy?server=ubuntu.murka.fun&secret=dd11a79dbb4194b8cdd46a43dbb31dbbbf
-tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
-tg://proxy?server=alpha.sexycapybara.xyz&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
-tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-tg://webproxy?server=edge.flowstreamhub.site&secret=dd8960b9810070b6dea7e1f7e2f564b461
+tg://proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b
+tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
 tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b
+tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+tg://proxy?server=alpha.sexycapybara.xyz&port=443&secret=ee368601a36ebfafec1604dd8ad6c2d1eb636c6f7564666c6172652e636f6d
+tg://webproxy?server=webproxy.stream&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
 ## Мертвы сейчас, но работали в другом режиме VPN
@@ -68,4 +66,4 @@ tg://webproxy?server=flare-free.xyz&secret=ec101543b4d4b7f77045eca0d821a641
 ```
 
 ---
-*Состав списка обновлён: 21.10.2026 13:03, VPN ВЫКЛ*
+*Состав списка обновлён: 21.10.2026 13:19, VPN ВЫКЛ*
