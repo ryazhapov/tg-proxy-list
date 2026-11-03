@@ -2,69 +2,68 @@
 
 Список проверяется и обновляется автоматически (агент на Mac, каждые 15 минут). Для телефонов: shortcut читает сырой файл [proxy.txt](https://raw.githubusercontent.com/ryazhapov/tg-proxy-list/main/proxy.txt).
 
-**Топ-52 универсальных** — работают и с VPN, и без VPN.
+**Топ-51 универсальных** — работают и с VPN, и без VPN.
 
 ```tg://proxy?server=cdnwave.org&port=443&secret=ee5eedcb160ad8ac83ff7a1516474692d8706574726f766963682e7275
-tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
-tg://webproxy?server=magmastyle.shop&secret=dd7d1de86904a5c624c67d841d0c181ebb
 tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d
 tg://proxy?server=predator-artist.top&port=853&secret=7lTOMw5GkMwpfSsDH_PyiLBtdC5ha2VuYWkuY2xpY2s
+tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
+tg://webproxy?server=clicktg.click-net.one&secret=ddc7cd8aca0523870fd2b926f1ee06b91a
+tg://webproxy?server=tavienne.xyz&secret=dd0ac7290872004ac465cfea1b05d5ffb8
+tg://webproxy?server=drovane.xyz&secret=dd7ec606b60fd41b56a57e7e47671c41bd
+tg://webproxy?server=tele-connect.app&secret=dd1c82c514fdeb0d26cf8658d823220084
+tg://proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
+tg://webproxy?server=zarnia.xyz&secret=ddfd367c42b90b0d8ec99796e343454424
+tg://proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://webproxy?server=pr.zainetpro.online&secret=37a12317dfb93a51773d0302a1e5e383
+tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
+tg://proxy?server=poka38.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b706f6b6133382e746964656c61726b2e6363
+tg://proxy?server=tg.surfvpn.info&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
+tg://webproxy?server=cdn.sovantrix.com&secret=dd8a9271752328a8d7fb18364c1e91ab20
+tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
+tg://proxy?server=tbojl.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
+tg://proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d
+tg://proxy?server=uwu.mishutkin.click&port=443&secret=eec21a6ac829a6acfe1077910fc3da1c127577752e6d69736875746b696e2e636c69636b
+tg://proxy?server=ykima.davay.click&port=443&secret=7gbf298nG6sYxrYGSEwjc4R5a2ltYS5kYXZheS5jbGljaw
 tg://proxy?server=chestno.servera-dlya-tg-zdes-net.abrdns.com&port=443&secret=eea65c7fc5a0d5669ba371a7ca88fc19496f7a6f6e2e7275
 tg://proxy?server=rf1.data-edge.fyi&port=443&secret=ee4b8b183c13a3c4b63ddf54838b7e52527266312e646174612d656467652e667969
-tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
-tg://webproxy?server=drovane.xyz&secret=dd7ec606b60fd41b56a57e7e47671c41bd
-tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://webproxy?server=mtproto.win&secret=dde5544cb710bae52b8bcbc05375921c16
-tg://proxy?server=uwu.mishutkin.click&port=443&secret=eec21a6ac829a6acfe1077910fc3da1c127577752e6d69736875746b696e2e636c69636b
-tg://proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
-tg://proxy?server=static.b-telega.shop&port=443&secret=eec9f4da3fdfbfccdb13cd63d487b4804273746f72652e737465616d706f77657265642e636f6d
-tg://proxy?server=BoT.jlpoKcu.cloud&port=443&secret=7j-KkcLX4EtqnxLF6DcL1Kp4YXBpLm96b24ucnU
-tg://proxy?server=tbojl.jlpokcu.cloud&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://proxy?server=a03.mtjlpoto.fit&port=443&secret=eefc12ba3e57a0bbf431fe455a0c6534946130332e6d746a6c706f746f2e666974
 tg://proxy?server=secure.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://webproxy?server=nov.webvirt.cloud&secret=dd2cb152167b45c9a010c8109fef2d8fd6
-tg://webproxy?server=kak.hotstbvs.ru&secret=19642a8b48eff48766d6f7f240209026
-tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
-tg://proxy?server=edge.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=ne71688.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=ykima.davay.click&port=443&secret=7gbf298nG6sYxrYGSEwjc4R5a2ltYS5kYXZheS5jbGljaw
-tg://webproxy?server=web.suslik-cloud.com&secret=dd72a2c47b19adfed97c95bc4fdd38b83f
-tg://proxy?server=as.mkim.click&port=443&secret=7i36NSb8cLer16CerebM6h9hcy5ta2ltLmNsaWNr
-tg://proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65
-tg://proxy?server=n9c17f5.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=nfaa3f9.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=na47a65.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://webproxy?server=lt.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
-tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b
-tg://webproxy?server=tg2.borbos.site&secret=dd5ffeb74bd094549eb4d0eebe31dc226d
-tg://webproxy?server=tgmessages.net&secret=ddec7c7eda624156e77f173d95a8e97292
-tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
-tg://proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=n2dca5f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=n519287.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-tg://proxy?server=n9ac1ee.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
 tg://proxy?server=tovi54.tidelark.cc&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b746f766935342e746964656c61726b2e6363
-tg://webproxy?server=tavienne.xyz&secret=dd0ac7290872004ac465cfea1b05d5ffb8
-tg://proxy?server=fast.mtp.mom&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
-tg://webproxy?server=clicktg.click-net.one&secret=ddc7cd8aca0523870fd2b926f1ee06b91a
-tg://webproxy?server=cdn.sovantrix.com&secret=dd8a9271752328a8d7fb18364c1e91ab20
-tg://proxy?server=poka38.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b706f6b6133382e746964656c61726b2e6363
-tg://proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d
-tg://proxy?server=a02.mtjlpoto.fit&port=443&secret=eefc12ba3e57a0bbf431fe455a0c6534946130322e6d746a6c706f746f2e666974
-tg://proxy?server=tg.surfvpn.info&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070
-tg://webproxy?server=zarnia.xyz&secret=ddfd367c42b90b0d8ec99796e343454424
-tg://proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363
-tg://webproxy?server=tele-connect.app&secret=dd1c82c514fdeb0d26cf8658d823220084
+tg://proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
+tg://proxy?server=BoT.jlpoKcu.cloud&port=443&secret=7j-KkcLX4EtqnxLF6DcL1Kp4YXBpLm96b24ucnU
+tg://proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d7609992943186d2e6265626f6f2e7275
+tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275
+tg://proxy?server=nfaa3f9.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=n2dca5f.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://webproxy?server=mtproto.win&secret=dde5544cb710bae52b8bcbc05375921c16
+tg://proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=ne71688.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://webproxy?server=tg2.borbos.site&secret=dd5ffeb74bd094549eb4d0eebe31dc226d
+tg://proxy?server=n9c17f5.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b
+tg://webproxy?server=tgmessages.net&secret=ddec7c7eda624156e77f173d95a8e97292
+tg://webproxy?server=lt.vetka.rest&secret=dd500ff95be69ac70dfac6632abd0f8527
+tg://proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+tg://proxy?server=n519287.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
 tg://webproxy?server=pl1.vetka.rest&secret=dd29f1b13ae871328bb68c23eb3192999b
+tg://webproxy?server=nov.webvirt.cloud&secret=dd2cb152167b45c9a010c8109fef2d8fd6
+tg://proxy?server=a03.mtjlpoto.fit&port=443&secret=eefc12ba3e57a0bbf431fe455a0c6534946130332e6d746a6c706f746f2e666974
+tg://webproxy?server=web.suslik-cloud.com&secret=dd72a2c47b19adfed97c95bc4fdd38b83f
+tg://proxy?server=na47a65.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=n9ac1ee.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://webproxy?server=magmastyle.shop&secret=dd7d1de86904a5c624c67d841d0c181ebb
+tg://proxy?server=as.mkim.click&port=443&secret=7i36NSb8cLer16CerebM6h9hcy5ta2ltLmNsaWNr
 ```
 
 ## Только при VPN выкл (сейчас)
 
-```tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eea456599a8256257da4f567917457aadf7075622e756c7472612d666173742e6363
+```tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
+tg://proxy?server=pub.ultra-fast.cc&port=443&secret=eea456599a8256257da4f567917457aadf7075622e756c7472612d666173742e6363
 tg://proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665
-tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
-tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 tg://webproxy?server=kokor.win&secret=dde5544cb710bae52b8bcbc05375921c16
+tg://webproxy?server=stone27.home.kg&secret=9fc8d7d1aeee614bd5fa3b760da44dd3
 ```
 
 ## Мертвы сейчас, но работали в другом режиме VPN
@@ -89,8 +88,9 @@ tg://proxy?server=MTPROTO.online&port=443&secret=ee139e0ee36150c1ea3bf299796586b
 tg://proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275
 tg://proxy?server=103.83.145.50&port=2053&secret=ddc8576be4484da99437c59af67c28ae44
 tg://proxy?server=194.154.27.64&port=10443&secret=eeee616e6e65742e636c6f7564270d28423533666c6f776572732e636f6d
+tg://proxy?server=a02.mtjlpoto.fit&port=443&secret=eefc12ba3e57a0bbf431fe455a0c6534946130322e6d746a6c706f746f2e666974
 tg://proxy?server=shared.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
 ```
 
 ---
-*Состав списка обновлён: 03.11.2026 08:52, VPN ВЫКЛ*
+*Состав списка обновлён: 03.11.2026 08:53, VPN ВЫКЛ*
